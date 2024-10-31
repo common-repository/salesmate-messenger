@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .checkbox_custom p {
+    display: inline-block;
+    font-size: 12px !important;
+    padding-left: 4px;
+}
